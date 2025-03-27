@@ -1,2 +1,3 @@
-# CODSOFT
-CODES OF MY TASK PERFORMED IN INTERNSHIP
+#calculator
+#todolist
+#codsoft
